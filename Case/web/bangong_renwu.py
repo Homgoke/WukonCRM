@@ -125,6 +125,7 @@ class Testrenwu(unittest.TestCase):
         self.assertEqual('el-checkbox__input is-checked is-focus',button_class_c)
         self.assertEqual('el-tooltip item-name',title_class)
         self.assertEqual('el-tooltip item-name-active',title_class_c)
+        print('abc')
 
 
 
